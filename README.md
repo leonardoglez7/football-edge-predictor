@@ -5,12 +5,10 @@ orientado a detectar value bets en mercados de predicción descentralizados como
 
 ---
 
-## 📌 Problema
-
-Los mercados de apuestas deportivas como Bet365 son altamente eficientes — sus odds
-incorporan información pública rápidamente. Sin embargo, mercados descentralizados como
-Polymarket presentan mayor ineficiencia, lo que abre oportunidades para modelos predictivos
-con edge estadístico real.
+⚠️ **IMPORTANTE**: Los precios de Polymarket en este backtesting son **estimados** 
+a partir de cuotas de Bet365, no son precios reales del mercado. Los resultados 
+reales pueden diferir significativamente. El backtesting con API real de Polymarket 
+está pendiente como trabajo futuro.
 
 ---
 
