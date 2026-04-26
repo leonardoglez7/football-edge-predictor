@@ -52,7 +52,7 @@ momentum, rachas y tendencias recientes, no solo promedios estáticos.
 
 
 
-![Accuracy por fold](readme_imgs/accuracy_folds.png)
+![Accuracy por fold](accuracy_folds.png)
 
 
 
@@ -66,7 +66,7 @@ momentum, rachas y tendencias recientes, no solo promedios estáticos.
 
 
 
-![ROC Curve](readme_imgs/roc_curve.png)
+![ROC Curve](roc_curve.png)
 
 
 
@@ -74,7 +74,7 @@ momentum, rachas y tendencias recientes, no solo promedios estáticos.
 
 
 
-![Calibración](readme_imgs/calibration.png)
+![Calibración](calibration.png)
 
 
 
@@ -82,7 +82,7 @@ momentum, rachas y tendencias recientes, no solo promedios estáticos.
 
 
 
-![Distribución](readme_imgs/prob_distribution.png)
+![Distribución](prob_distribution.png)
 
 
 
@@ -90,7 +90,7 @@ momentum, rachas y tendencias recientes, no solo promedios estáticos.
 
 
 
-![Matriz de confusión](readme_imgs/confusion_matrix.png)
+![Matriz de confusión](confusion_matrix.png)
 
 
 
@@ -110,7 +110,7 @@ Con un precio de $0.55, el punto de equilibrio es 55% — el modelo con 62.5% su
 
 
 
-![Bankroll Bet365 vs Polymarket](readme_imgs/bankroll_comparison.png)
+![Bankroll Bet365 vs Polymarket](bankroll_comparison.png)
 
 
 
@@ -151,13 +151,12 @@ Con un precio de $0.55, el punto de equilibrio es 55% — el modelo con 62.5% su
 ```
 football-predictor/
 ├── AgenteFutbol.ipynb     # notebook principal
-├── readme_imgs/           # gráficos generados
-│   ├── accuracy_folds.png
-│   ├── roc_curve.png
-│   ├── calibration.png
-│   ├── prob_distribution.png
-│   ├── bankroll_comparison.png
-│   └── confusion_matrix.png
+├── accuracy_folds.png
+├── roc_curve.png
+├── calibration.png
+├── prob_distribution.png
+├── bankroll_comparison.png
+└── confusion_matrix.png
 └── README.md
 ```
 
